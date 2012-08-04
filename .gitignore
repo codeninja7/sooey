@@ -1,6 +1,7 @@
 .htaccess
 wp-*.php
 xmlrpc.php
+wp-config.php
 wp-admin/
 wp-includes/
 wp-content/uploads/
